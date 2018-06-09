@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Chrome broswer launched]]>
+    </line>
+    <line>
+      <![CDATA[url loaded to the broswer =  http://giganew-pc/login.do]]>
+    </line>
+    <line>
+      <![CDATA[Entered userName and password user111 pwd112343]]>
+    </line>
+    <line>
+      <![CDATA[Error msg verified successfully]]>
+    </line>
+    <line>
+      <![CDATA[Entered userName and password user112 pwd112344]]>
+    </line>
+    <line>
+      <![CDATA[Error msg verified successfully]]>
+    </line>
+    <line>
+      <![CDATA[Entered userName and password user113 pwd112345]]>
+    </line>
+    <line>
+      <![CDATA[Error msg verified successfully]]>
+    </line>
+    <line>
+      <![CDATA[Entered userName and password user114 pwd112346]]>
+    </line>
+    <line>
+      <![CDATA[Error msg verified successfully]]>
+    </line>
+    <line>
+      <![CDATA[Entered userName and password user115 pwd112347]]>
+    </line>
+    <line>
+      <![CDATA[Error msg verified successfully]]>
+    </line>
+    <line>
+      <![CDATA[Entered userName and password user116 pwd112348]]>
+    </line>
+    <line>
+      <![CDATA[Error msg verified successfully]]>
+    </line>
+    <line>
+      <![CDATA[Entered userName and password user117 pwd112349]]>
+    </line>
+    <line>
+      <![CDATA[Error msg verified successfully]]>
+    </line>
+    <line>
+      <![CDATA[Entered userName and password user118 pwd112350]]>
+    </line>
+    <line>
+      <![CDATA[Error msg verified successfully]]>
+    </line>
+    <line>
+      <![CDATA[Entered userName and password user119 pwd112351]]>
+    </line>
+    <line>
+      <![CDATA[Error msg verified successfully]]>
+    </line>
+    <line>
+      <![CDATA[Entered userName and password user120 pwd112352]]>
+    </line>
+    <line>
+      <![CDATA[Error msg verified successfully]]>
+    </line>
+    <line>
+      <![CDATA[Entered userName and password user121 pwd112353]]>
+    </line>
+    <line>
+      <![CDATA[Error msg verified successfully]]>
+    </line>
+    <line>
+      <![CDATA[Entered userName and password user122 pwd112354]]>
+    </line>
+    <line>
+      <![CDATA[Error msg verified successfully]]>
+    </line>
+    <line>
+      <![CDATA[Chrome broswer Closed]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="72565" started-at="2018-06-03T07:12:11Z" finished-at="2018-06-03T07:13:24Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="72565" started-at="2018-06-03T07:12:11Z" finished-at="2018-06-03T07:13:24Z">
+      <class name="testScripts.Testcase3">
+        <test-method status="PASS" signature="bs()[pri:0, instance:testScripts.Testcase3@78e67e0a]" name="bs" is-config="true" duration-ms="5446" started-at="2018-06-03T07:12:06Z" finished-at="2018-06-03T07:12:11Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Chrome broswer launched]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- bs -->
+        <test-method status="PASS" signature="bc()[pri:0, instance:testScripts.Testcase3@78e67e0a]" name="bc" is-config="true" duration-ms="3103" started-at="2018-06-03T07:12:11Z" finished-at="2018-06-03T07:12:14Z">
+          <reporter-output>
+            <line>
+              <![CDATA[url loaded to the broswer =  http://giganew-pc/login.do]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- bc -->
+        <test-method status="PASS" signature="tc_03()[pri:0, instance:testScripts.Testcase3@78e67e0a]" name="tc_03" duration-ms="69448" started-at="2018-06-03T07:12:14Z" finished-at="2018-06-03T07:13:24Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Entered userName and password user111 pwd112343]]>
+            </line>
+            <line>
+              <![CDATA[Error msg verified successfully]]>
+            </line>
+            <line>
+              <![CDATA[Entered userName and password user112 pwd112344]]>
+            </line>
+            <line>
+              <![CDATA[Error msg verified successfully]]>
+            </line>
+            <line>
+              <![CDATA[Entered userName and password user113 pwd112345]]>
+            </line>
+            <line>
+              <![CDATA[Error msg verified successfully]]>
+            </line>
+            <line>
+              <![CDATA[Entered userName and password user114 pwd112346]]>
+            </line>
+            <line>
+              <![CDATA[Error msg verified successfully]]>
+            </line>
+            <line>
+              <![CDATA[Entered userName and password user115 pwd112347]]>
+            </line>
+            <line>
+              <![CDATA[Error msg verified successfully]]>
+            </line>
+            <line>
+              <![CDATA[Entered userName and password user116 pwd112348]]>
+            </line>
+            <line>
+              <![CDATA[Error msg verified successfully]]>
+            </line>
+            <line>
+              <![CDATA[Entered userName and password user117 pwd112349]]>
+            </line>
+            <line>
+              <![CDATA[Error msg verified successfully]]>
+            </line>
+            <line>
+              <![CDATA[Entered userName and password user118 pwd112350]]>
+            </line>
+            <line>
+              <![CDATA[Error msg verified successfully]]>
+            </line>
+            <line>
+              <![CDATA[Entered userName and password user119 pwd112351]]>
+            </line>
+            <line>
+              <![CDATA[Error msg verified successfully]]>
+            </line>
+            <line>
+              <![CDATA[Entered userName and password user120 pwd112352]]>
+            </line>
+            <line>
+              <![CDATA[Error msg verified successfully]]>
+            </line>
+            <line>
+              <![CDATA[Entered userName and password user121 pwd112353]]>
+            </line>
+            <line>
+              <![CDATA[Error msg verified successfully]]>
+            </line>
+            <line>
+              <![CDATA[Entered userName and password user122 pwd112354]]>
+            </line>
+            <line>
+              <![CDATA[Error msg verified successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tc_03 -->
+        <test-method status="PASS" signature="as()[pri:0, instance:testScripts.Testcase3@78e67e0a]" name="as" is-config="true" duration-ms="707" started-at="2018-06-03T07:13:24Z" finished-at="2018-06-03T07:13:25Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Chrome broswer Closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- as -->
+      </class> <!-- testScripts.Testcase3 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
